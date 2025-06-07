@@ -18,4 +18,4 @@ XtraTodo is a task management application designed to help users organize their 
 1. Ensure you have Flutter installed on your system. Follow the [official Flutter installation guide](https://flutter.dev/docs/get-started/install).
 2. Clone this repository:
    ```bash
-   [git clone https://github.com/Gustyx-Power/XtraTodo.git]
+   git clone https://github.com/Gustyx-Power/XtraTodo.git
